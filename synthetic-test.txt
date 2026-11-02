@@ -1,19 +1,5 @@
-SECURITY SCANNER TEST FIXTURE.
-The following value is synthetic, was not issued by GitHub,
-and must never be used for authentication.
+SYNTHETIC SECURITY TEST FIXTURE. Not issued by GitHub. Never use for authentication.
 
-github_token = ghp_0123456789abcdefghijklmnopqrstuvwxyz
-
-
-
-
-
-
-
-
-
-
-
-
+github_token = ghp_7eSc6vfxYb4eynAqOsnx0jSvgq81DKgZ4Zue
 
 
